@@ -1,5 +1,6 @@
 <?php
 
+namespace Guianqinag\DemoComposer;
 
 class Demo
 {

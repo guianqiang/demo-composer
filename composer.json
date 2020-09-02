@@ -15,4 +15,13 @@
         "guzzlehttp/guzzle": "^6.4",
         "ext-json": "*"
     },
+    "autoload": {
+        "psr-4": {
+            "Guianqinag\\DemoComposer\\": "src/"
+        },
+        "classmap": [
+        ],
+        "files": [
+        ]
+    }
 }
