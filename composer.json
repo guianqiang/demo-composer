@@ -1,0 +1,13 @@
+{
+    "name": "guianqiang/demo-composer",
+    "description": "laravel server register in nacos or other",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "桂安强",
+            "email": "guianqiang@hogecloud.com"
+        }
+    ],
+    "require": {}
+}
