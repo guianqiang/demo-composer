@@ -9,5 +9,10 @@
             "email": "guianqiang@hogecloud.com"
         }
     ],
-    "require": {}
+
+    "require": {
+        "php": "^7.2",
+        "guzzlehttp/guzzle": "^6.4",
+        "ext-json": "*"
+    },
 }
